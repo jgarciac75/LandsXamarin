@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandsXamarin.iOS", "LandsXa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandsXamarin.UWP", "LandsXamarin\LandsXamarin.UWP\LandsXamarin.UWP.csproj", "{27DCFB5D-01AB-4492-AFD2-EE7252BA2ED7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandsXamarin", "LandsXamarin\LandsXamarin\LandsXamarin.csproj", "{191C6EB8-FCEF-4E5C-98E5-862A0555B2B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LandsXamarin", "LandsXamarin\LandsXamarin\LandsXamarin.csproj", "{191C6EB8-FCEF-4E5C-98E5-862A0555B2B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -148,7 +148,6 @@ Global
 		{D8F828F7-C516-4966-9A45-3CF4E91246EC}.AppStore|x86.Build.0 = AppStore|iPhone
 		{D8F828F7-C516-4966-9A45-3CF4E91246EC}.AppStore|x86.Deploy.0 = AppStore|iPhone
 		{D8F828F7-C516-4966-9A45-3CF4E91246EC}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
-		{D8F828F7-C516-4966-9A45-3CF4E91246EC}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
 		{D8F828F7-C516-4966-9A45-3CF4E91246EC}.Debug|Any CPU.Deploy.0 = Debug|iPhoneSimulator
 		{D8F828F7-C516-4966-9A45-3CF4E91246EC}.Debug|ARM.ActiveCfg = Debug|iPhone
 		{D8F828F7-C516-4966-9A45-3CF4E91246EC}.Debug|ARM.Build.0 = Debug|iPhone

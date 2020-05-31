@@ -5,9 +5,7 @@
              x:Class="LandsXamarin.App">
     <Application.Resources>
     <ResourceDictionary>
-      <infra:InstancesLocator x:Key="Locator">
-        
-      </infra:InstancesLocator>
+      <infra:InstancesLocator x:Key="Locator" />
     </ResourceDictionary>
     </Application.Resources>
 </Application>
